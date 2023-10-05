@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.4e0a2d8e.css",
+    "main.js": "/react-gh-pages/static/js/main.bb0d2892.js",
+    "static/js/787.459d78c9.chunk.js": "/react-gh-pages/static/js/787.459d78c9.chunk.js",
+    "static/media/video.webm": "/react-gh-pages/static/media/video.17058a8f033fcf94d035.webm",
+    "static/media/activitiessvg.svg": "/react-gh-pages/static/media/activitiessvg.cb84fe73d322de89f4bf241c89acb7c3.svg",
+    "static/media/juliaswipe.svg": "/react-gh-pages/static/media/juliaswipe.8ae4b5f89f746fc5586d73e09bf66d7a.svg",
+    "static/media/frishmanBeach.jpg": "/react-gh-pages/static/media/frishmanBeach.d11bfff3bddb326022b4.jpg",
+    "static/media/abrahamHostel.jpg": "/react-gh-pages/static/media/abrahamHostel.6cd2833e5735f4adbae7.jpg",
+    "static/media/180hostel.jpg": "/react-gh-pages/static/media/180hostel.6bcb53aa646e0b721b4b.jpg",
+    "static/media/Parent.ttf": "/react-gh-pages/static/media/Parent.2854a3e2f228569331cc.ttf",
+    "static/media/paintingBeach.webp": "/react-gh-pages/static/media/paintingBeach.ee395c2a22714acfa06a.webp",
+    "static/media/gazoz.jpeg": "/react-gh-pages/static/media/gazoz.c242eae2d79b4e17a344.jpeg",
+    "static/media/insta.svg": "/react-gh-pages/static/media/insta.798d9b4b712c30e5b7d043e52187e830.svg",
+    "static/media/mail.svg": "/react-gh-pages/static/media/mail.c20c4fc6f3114356bda10b217ccd0792.svg",
+    "static/media/whatsappsvg.svg": "/react-gh-pages/static/media/whatsappsvg.2ff00631d8aa86bf660b6fe9fbaea246.svg",
+    "static/media/twitter.svg": "/react-gh-pages/static/media/twitter.3fdcdf776f02a03f2fe78258610f62b9.svg",
+    "static/media/linkedin.svg": "/react-gh-pages/static/media/linkedin.6a75a359e6841a99d42defd7af846ba9.svg",
+    "static/media/tiktok.svg": "/react-gh-pages/static/media/tiktok.f884b058e6bf4a5b4d9b042fb51bbd96.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.4e0a2d8e.css.map": "/react-gh-pages/static/css/main.4e0a2d8e.css.map",
+    "main.bb0d2892.js.map": "/react-gh-pages/static/js/main.bb0d2892.js.map",
+    "787.459d78c9.chunk.js.map": "/react-gh-pages/static/js/787.459d78c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e0a2d8e.css",
+    "static/js/main.bb0d2892.js"
+  ]
+}
