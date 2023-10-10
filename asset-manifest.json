@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/sunsetMatches/static/css/main.abb4a7ed.css",
-    "main.js": "/sunsetMatches/static/js/main.bf8d8f35.js",
+    "main.css": "/sunsetMatches/static/css/main.0559f7ef.css",
+    "main.js": "/sunsetMatches/static/js/main.b460efa9.js",
     "static/js/787.459d78c9.chunk.js": "/sunsetMatches/static/js/787.459d78c9.chunk.js",
+    "static/media/gifVideo.gif": "/sunsetMatches/static/media/gifVideo.bcc4c3f1f3bd7477c700.gif",
     "static/media/video.webm": "/sunsetMatches/static/media/video.17058a8f033fcf94d035.webm",
     "static/media/activitiessvg.svg": "/sunsetMatches/static/media/activitiessvg.cb84fe73d322de89f4bf241c89acb7c3.svg",
     "static/media/juliaswipe.svg": "/sunsetMatches/static/media/juliaswipe.8ae4b5f89f746fc5586d73e09bf66d7a.svg",
+    "static/media/date.svg": "/sunsetMatches/static/media/date.556611b7498f3b1923aba6f458617149.svg",
     "static/media/frishmanBeach.jpg": "/sunsetMatches/static/media/frishmanBeach.d11bfff3bddb326022b4.jpg",
+    "static/media/activities.svg": "/sunsetMatches/static/media/activities.2c3719a31e278fd2b8ea772d1884f6b6.svg",
     "static/media/abrahamHostel.jpg": "/sunsetMatches/static/media/abrahamHostel.6cd2833e5735f4adbae7.jpg",
     "static/media/180hostel.jpg": "/sunsetMatches/static/media/180hostel.6bcb53aa646e0b721b4b.jpg",
     "static/media/Parent.ttf": "/sunsetMatches/static/media/Parent.2854a3e2f228569331cc.ttf",
@@ -19,12 +22,12 @@
     "static/media/linkedin.svg": "/sunsetMatches/static/media/linkedin.6a75a359e6841a99d42defd7af846ba9.svg",
     "static/media/tiktok.svg": "/sunsetMatches/static/media/tiktok.f884b058e6bf4a5b4d9b042fb51bbd96.svg",
     "index.html": "/sunsetMatches/index.html",
-    "main.abb4a7ed.css.map": "/sunsetMatches/static/css/main.abb4a7ed.css.map",
-    "main.bf8d8f35.js.map": "/sunsetMatches/static/js/main.bf8d8f35.js.map",
+    "main.0559f7ef.css.map": "/sunsetMatches/static/css/main.0559f7ef.css.map",
+    "main.b460efa9.js.map": "/sunsetMatches/static/js/main.b460efa9.js.map",
     "787.459d78c9.chunk.js.map": "/sunsetMatches/static/js/787.459d78c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abb4a7ed.css",
-    "static/js/main.bf8d8f35.js"
+    "static/css/main.0559f7ef.css",
+    "static/js/main.b460efa9.js"
   ]
 }
