@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sunsetMatches/static/css/main.03351408.css",
-    "main.js": "/sunsetMatches/static/js/main.dfa43df7.js",
+    "main.js": "/sunsetMatches/static/js/main.3fa33447.js",
     "static/js/787.459d78c9.chunk.js": "/sunsetMatches/static/js/787.459d78c9.chunk.js",
     "static/media/video.webm": "/sunsetMatches/static/media/video.17058a8f033fcf94d035.webm",
     "static/media/smile.png": "/sunsetMatches/static/media/smile.1dd52db731167f29b273.png",
@@ -22,18 +22,15 @@
     "static/media/paintingBeach.webp": "/sunsetMatches/static/media/paintingBeach.ee395c2a22714acfa06a.webp",
     "static/media/gazoz.jpeg": "/sunsetMatches/static/media/gazoz.c242eae2d79b4e17a344.jpeg",
     "static/media/insta.svg": "/sunsetMatches/static/media/insta.798d9b4b712c30e5b7d043e52187e830.svg",
-    "static/media/mail.svg": "/sunsetMatches/static/media/mail.c20c4fc6f3114356bda10b217ccd0792.svg",
-    "static/media/whatsappsvg.svg": "/sunsetMatches/static/media/whatsappsvg.2ff00631d8aa86bf660b6fe9fbaea246.svg",
-    "static/media/twitter.svg": "/sunsetMatches/static/media/twitter.3fdcdf776f02a03f2fe78258610f62b9.svg",
     "static/media/linkedin.svg": "/sunsetMatches/static/media/linkedin.6a75a359e6841a99d42defd7af846ba9.svg",
     "static/media/tiktok.svg": "/sunsetMatches/static/media/tiktok.f884b058e6bf4a5b4d9b042fb51bbd96.svg",
     "index.html": "/sunsetMatches/index.html",
     "main.03351408.css.map": "/sunsetMatches/static/css/main.03351408.css.map",
-    "main.dfa43df7.js.map": "/sunsetMatches/static/js/main.dfa43df7.js.map",
+    "main.3fa33447.js.map": "/sunsetMatches/static/js/main.3fa33447.js.map",
     "787.459d78c9.chunk.js.map": "/sunsetMatches/static/js/787.459d78c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03351408.css",
-    "static/js/main.dfa43df7.js"
+    "static/js/main.3fa33447.js"
   ]
 }
