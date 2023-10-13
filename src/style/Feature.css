@@ -1,0 +1,22 @@
+.container {
+  height: 100vh;
+  padding: 7% 0 7% 0;
+}
+.feature {
+  height: 30vh;
+}
+h2 {
+  color: black;
+  font-size: 30px;
+}
+@media screen and (min-width: 1000px) {
+  .imageContainer {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    justify-content: center;
+  }
+  .feature {
+    height: 70vh;
+  }
+}

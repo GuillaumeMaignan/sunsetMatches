@@ -1,0 +1,34 @@
+.footer-container {
+  /* height: 30vh; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.footer-column {
+  display: flex;
+  flex-direction: column;
+  padding: 10%;
+}
+.linkContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  padding: 20px;
+}
+.footerLink {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  /* padding: 20px; */
+  justify-content: center;
+  align-content: center;
+  color: black;
+}
+.reference {
+  color: rgb(211, 211, 211);
+  text-decoration: none;
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+  font-family: cursive;
+  margin: 20px;
+}
