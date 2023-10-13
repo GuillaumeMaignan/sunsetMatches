@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sunsetMatches/static/css/main.2783a48a.css",
-    "main.js": "/sunsetMatches/static/js/main.58d8593e.js",
+    "main.css": "/sunsetMatches/static/css/main.03351408.css",
+    "main.js": "/sunsetMatches/static/js/main.dfa43df7.js",
     "static/js/787.459d78c9.chunk.js": "/sunsetMatches/static/js/787.459d78c9.chunk.js",
     "static/media/video.webm": "/sunsetMatches/static/media/video.17058a8f033fcf94d035.webm",
     "static/media/smile.png": "/sunsetMatches/static/media/smile.1dd52db731167f29b273.png",
@@ -28,12 +28,12 @@
     "static/media/linkedin.svg": "/sunsetMatches/static/media/linkedin.6a75a359e6841a99d42defd7af846ba9.svg",
     "static/media/tiktok.svg": "/sunsetMatches/static/media/tiktok.f884b058e6bf4a5b4d9b042fb51bbd96.svg",
     "index.html": "/sunsetMatches/index.html",
-    "main.2783a48a.css.map": "/sunsetMatches/static/css/main.2783a48a.css.map",
-    "main.58d8593e.js.map": "/sunsetMatches/static/js/main.58d8593e.js.map",
+    "main.03351408.css.map": "/sunsetMatches/static/css/main.03351408.css.map",
+    "main.dfa43df7.js.map": "/sunsetMatches/static/js/main.dfa43df7.js.map",
     "787.459d78c9.chunk.js.map": "/sunsetMatches/static/js/787.459d78c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2783a48a.css",
-    "static/js/main.58d8593e.js"
+    "static/css/main.03351408.css",
+    "static/js/main.dfa43df7.js"
   ]
 }
